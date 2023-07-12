@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+alex.jollyany.co	TRUE	/	FALSE	1999999999	71a97c866be4cfe16338c02d2c785c20	4b6636fa425c430481cdb5ad8c77d650
+
